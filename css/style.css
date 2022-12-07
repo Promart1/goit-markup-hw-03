@@ -340,7 +340,10 @@ align-items: center;
 }
 
 .main-section {
-    background-color: var(--white-color)
+    background-color: var(--white-color);
+    padding: 96px 0 120px 0;
+    
+    
 }
 
 
