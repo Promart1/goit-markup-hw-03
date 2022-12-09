@@ -164,12 +164,13 @@ line-height: 1.5;
 /*==================================hero============*/
 
 .hero-section {
+    padding-top: 192px;
+    padding-bottom: 192px;
     background-color: var(--footer-background-color);
 }
 
 .hero-container {
-    padding-top: 192px;
-    padding-bottom: 192px;
+    
 }
 
 .hero-title {
